@@ -1,0 +1,41 @@
+.lb{
+    display: block;
+    font-size: 15pt;
+    font-weight: bold;
+    font-family: 'Lucida Casual', 'Comic Sans MS';
+}
+
+#reminder{
+    width: 80%;
+}
+
+.lb2{
+    font-size: 15pt;
+    font-weight: bold;
+    font-family: 'Lucida Casual', 'Comic Sans MS';
+}
+
+h1{
+     font-family: 'Lucida Casual', 'Comic Sans MS';
+}
+     
+
+#rmd{
+    width: 100%;
+    height: 60px;
+    
+}
+
+#dt-hr{
+    width: 100%;
+    display: inline;
+}
+
+
+body{
+    padding: 10px
+}
+#container{
+    float: none;
+    margin: 50 auto; 
+}
